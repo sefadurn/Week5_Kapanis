@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KapanisSorulari", "KapanisSorulari\KapanisSorulari.csproj", "{08189AAB-81A2-4534-BAB1-20F5D2E455EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08189AAB-81A2-4534-BAB1-20F5D2E455EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08189AAB-81A2-4534-BAB1-20F5D2E455EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08189AAB-81A2-4534-BAB1-20F5D2E455EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08189AAB-81A2-4534-BAB1-20F5D2E455EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D0985F5-514C-4259-8F07-6FC09832B538}
+	EndGlobalSection
+EndGlobal
